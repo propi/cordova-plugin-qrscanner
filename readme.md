@@ -12,14 +12,12 @@ We created this fork because we needed to include the following modifications in
 
 It also includes some commits that are in master and haven't been released, and the distribution assets have been added to the repository.
 
-You can see all the changes here: [111fa6c...moodlemobile:v3.0.1-moodle.1](https://github.com/bitpay/cordova-plugin-qrscanner/compare/111fa6c272da6c708b65528baea2316542e421fa...moodlemobile:v3.0.1-moodle.1)
+You can see all the changes here: [111fa6c...moodlemobile:v3.0.1-moodle.2](https://github.com/bitpay/cordova-plugin-qrscanner/compare/111fa6c272da6c708b65528baea2316542e421fa...moodlemobile:v3.0.1-moodle.2)
 
 ## Installation
 
 You can install this package using the [original installation instructions](https://github.com/bitpay/cordova-plugin-qrscanner#get-started), but installing this package instead:
 
 ```sh
-cordova plugin add @moodlehq/cordova-plugin-qrscanner@3.0.1-moodle.1
+cordova plugin add @moodlehq/cordova-plugin-qrscanner@3.0.1-moodle.2
 ```
-
-Depending on your cordova version, this command will add the plugin to your package.json as `cordova-plugin-qrscanner` (for example, under `cordova.plugins`). In that case, you also need to add `@moodlehq/cordova-plugin-qrscanner` so that the project restores the fork properly in other machines. Make sure that it is listed before the unscoped plugin name.
