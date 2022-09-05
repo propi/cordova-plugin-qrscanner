@@ -9,6 +9,7 @@ We created this fork because we needed to include the following modifications in
 | PR | Description |
 | -- | ----------- |
 | [#266](https://github.com/bitpay/cordova-plugin-qrscanner/pull/266) | fix openSettingsURLString deprecated function |
+| [#382](https://github.com/bitpay/cordova-plugin-qrscanner/pull/382) | fix: Remove style attribute from body for prevent unexpected background |
 
 It also includes some commits that are in master and haven't been released, and the distribution assets have been added to the repository.
 
